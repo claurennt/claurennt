@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media-exp3.licdn.com/dms/image/C4D16AQEL_8_Yot_0Mg/profile-displaybackgroundimage-shrink_350_1400/0/1612784415436?e=1630540800&v=beta&t=wrH424xKy5XWvMVvXHJQ1Co_1OPPMoUjm0_lcE762zk" align="center" style="width: 100%" />
+<img src="https://i.postimg.cc/GhxQJrjs/Hello-world.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -63,15 +63,17 @@
 
 
 ## Connect with me  
+<div align="center">
 <a href="https://github.com/claurennt" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/hello-world-claudia-here/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCYEE3WaOosXo9Cf0qWrhzOw" target="_blank">
+<a href="https://www.youtube.com/user/UCYEE3WaOosXo9Cf0qWrhzOw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+</div>  
   
 
 <br/>  
