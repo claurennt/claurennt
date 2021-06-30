@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Claudia, a linguist on the journey to become a full-stack developer 👩‍💻 🚀</div>  
+### <div align="center">I'm Claudia, a linguist on the journey to becoming a full-stack developer 👩‍💻 🚀</div>  
   
 
 - 🎓 I’m currently attending a Full-stack Web Developer Training Course @ WBS Coding School Berlin  
