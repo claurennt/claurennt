@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.postimg.cc/SNpq5TDW/2.png" align="center" style="width: 100%" />
+<img src="https://i.postimg.cc/K85Whvvx/2.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%" align="center">
 
 
 
@@ -85,12 +85,8 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
-<br/>  
+
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=claurennt&cover_image=true&theme=default" /></div>  
 
