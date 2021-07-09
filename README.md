@@ -88,7 +88,7 @@
 
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=claurennt&cover_image=true&theme=default" /></div>  
+ 
 
 <br/>  
 
