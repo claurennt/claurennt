@@ -6,10 +6,10 @@
 ### <div align="center"><h2>I'm Claudia, a linguist turned web developer currently based in Berlin 👩‍💻 🚀</h2></div>  
   
 
-- 🎓 I’ve just graduated as Junior Full-Stack Web Developer from WBS Coding School Berlin 
+- 🎓 I'm currently working as Junior Instructor and Junior Full-Stack Web Developer @ WBS Coding School Berlin
   
 
-- 👩‍🔧 I’m currently having a blast testing with Jest and Enzyme and building a backend for my my mom's shop's website.
+- 👩‍🔧 I’m currently building a backend server for my my mom's shop's website.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
