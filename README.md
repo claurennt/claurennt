@@ -9,7 +9,7 @@
 - 🎓 I'm currently working as Junior Instructor and Junior Full-Stack Web Developer @ WBS Coding School Berlin
   
 
-- 👩‍🔧 I’m currently building a backend server for my my mom's shop's website.
+- 👩‍🔧 I’m currently building a backend server for mom's shop's website as well as learning C.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
