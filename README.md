@@ -49,7 +49,7 @@
 <h3>Backend </h3>
  
 <img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" height="90" /> 
-  <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="90" />   
+  <img style="margin: 20px" src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" height="90" />   
 </div>
 
 
