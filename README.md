@@ -28,7 +28,7 @@
 
  
 <div align="center">  
-### Frontend 
+  <h3>Frontend </h3>
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /> 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" />  
@@ -46,7 +46,7 @@
 
 
 <div align="center">  
-### Backend  
+<h3>Backend </h3>
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="90" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="90" />  
 </div>
@@ -57,7 +57,7 @@
 
 
 <div align="center">  
-### Databases  
+<h3>Databases</h3>  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" /> 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" />  
