@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"><h2>I'm Claudia, a linguist turned web developer currently based in Berlin 👩‍💻 🚀</h2></div>  
+### <div align="center" color="red"><h2>I'm Claudia, a linguist turned web developer currently based in Berlin 👩‍💻 🚀</h2></div>  
   
 
 - 🎓 I'm currently working as Junior Instructor and Junior Full-Stack Web Developer @ WBS Coding School Berlin
