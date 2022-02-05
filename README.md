@@ -48,7 +48,7 @@
 <div align="center">  
 <h3>Backend </h3>
  
-<img style="margin: 20px" src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" alt="Node.js" height="90" /> 
+<img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" height="90" /> 
   <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="90" />   
 </div>
 
