@@ -31,7 +31,7 @@
   <h3>Frontend </h3>
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" /> 
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" />  {: height="75px" width="300px" style="float:left; padding-right:10px" }
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" /> 
 <img style="margin: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="Bootstrap" height="70" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="70" />  
