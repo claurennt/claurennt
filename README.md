@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://i.postimg.cc/RC63WnLT/banner.png" align="center" style="width: 100%" />
+<img src="https://i.postimg.cc/RC63WnLT/banner.png" align="center" style="width: 100%;height: 70%" />
 </div>  
   
 
 ### <div align="center" ><h2 >I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀</h2></div>  
   
 
-- 🎓 I'm currently working as Junior Instructor and Junior Full-Stack Web Developer @ WBS Coding School Berlin
+- 🎓 I'm currently working as Instructor and Full-Stack Web Developer @ WBS Coding School Berlin
   
 
 - 👩‍🔧 I’m currently building a backend server for mom's shop's website as well as learning C.
