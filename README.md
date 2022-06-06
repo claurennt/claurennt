@@ -1,6 +1,6 @@
 
 <div align="center">
-[![banner.png](https://i.postimg.cc/jjN6fhmB/banner.png)](https://postimg.cc/Z9byt6TL)
+![banner.png](https://i.postimg.cc/jjN6fhmB/banner.png)](https://postimg.cc/Z9byt6TL)
 </div> 
 
 ### <div align="center" ><h2 >I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀</h2></div>  
