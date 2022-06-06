@@ -38,8 +38,8 @@
 <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="Bootstrap" height="70" />&nbsp;&nbsp;&nbsp;   
 <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="70" />&nbsp;&nbsp;&nbsp;   
-<img src="https://cdn.worldvectorlogo.com/logos/materiasp;   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" height="50" />&nbsp;&nbsp;&nbsp;  
+<img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI" height="50" />&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" height="50" />&nbsp;&nbsp;&nbsp;  
 
 </div>
 
