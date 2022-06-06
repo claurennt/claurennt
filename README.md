@@ -1,5 +1,7 @@
-<div style="background-color:violet;">
-  
+
+<div align="center">
+<img src="[![banner.png](https://i.postimg.cc/jjN6fhmB/banner.png)](https://postimg.cc/Z9byt6TL)" alt="banner align="center" style="width: 100%;height: 70%" />
+</div> 
 
 ### <div align="center" ><h2 >I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀</h2></div>  
   
@@ -112,4 +114,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-</div>
+
