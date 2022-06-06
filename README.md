@@ -1,4 +1,4 @@
-
+<div style="background-color:violet;">
   
 
 ### <div align="center" ><h2 >I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀</h2></div>  
@@ -112,3 +112,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
