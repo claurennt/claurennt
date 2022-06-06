@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://postimg.cc/Z9byt6TL" align="center" style="width: 100%;height: 70%" />
+<img src="https://i.postimg.cc/jjN6fhmB/banner.png" align="center" style="width: 100%" />
 </div> 
 
 ### <div align="center" ><h2 >I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀</h2></div>  
