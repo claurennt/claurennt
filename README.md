@@ -20,49 +20,44 @@
 
  
 <div align="center">  
-  <h3>Frontend </h3> 
-<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/html.png?raw=true" alt="HTML5" height="70" />&nbsp;&nbsp;&nbsp;  
-<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/css.png?raw=true" alt="CSS3" height="70" />&nbsp;&nbsp;&nbsp;  
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />&nbsp;&nbsp;&nbsp; 
-<img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="70" />&nbsp;&nbsp;&nbsp;  
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" height="50" style="background-color:white;" />&nbsp;&nbsp;&nbsp; 
-<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/bootstrap.png?raw=true" alt="Bootstrap" height="70" />&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="Bootstrap" height="70" />&nbsp;&nbsp;&nbsp;   
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="70" />&nbsp;&nbsp;&nbsp;   
-<img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI" height="50" />&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" height="50" />&nbsp;&nbsp;&nbsp;  
+
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/html5.svg" alt="HTML5" height="70" /> 
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/css3.svg" alt="CSS3" height="70" />
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/js.svg" alt="JavaScript" width="70" />
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/react.svg" alt="React" height="70" />
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" height="50" style="background-color:white;" />
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/bootstrap.svg" alt="Bootstrap" height="70" />
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/sass.svg" alt="Sass" height="70" />  
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="70" />
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/muisvg.svg" alt="Material-UI" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" height="50" />
+
+
+
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/node.svg" alt="Node.js" height="70" />
+  <img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/express.png?raw=true" alt="Express.js" height="70" />
+
+
+
+
+
+  
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/postgresql.svg" alt="PostgreSQL" height="70" /> 
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" />  
+<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/mongodb.png?raw=true" alt="MongoDB" height="70" />  
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/mongoose-.svg" alt="Mongoose" height="70" /> 
+
+
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/git.svg" alt="git" height="70" /> 
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/github.svg" alt="github" height="70" /> 
+<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/heroku.png?raw=true" alt="heroku" height="70" /> 
+<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/netlify.png?raw=true" alt="netlify" height="70" /> 
+
+
+<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/scrum.png?raw=true" alt="scrum" height="70" /> 
+<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/trello.png?raw=true" alt="scrum" height="70" /> 
 
 </div>
-
-
-
-
-
-
-<div align="center">  
-<h3>Backend </h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" height="70" />&nbsp;&nbsp;
-  <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js" height="70" />&nbsp;&nbsp  
-</div>
-
-
-
-
-
-
-<div align="center">  
-<h3>Databases</h3>  
-<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" />&nbsp;&nbsp;&nbsp;   
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" />&nbsp;&nbsp;&nbsp;  
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" />&nbsp;&nbsp;&nbsp;   
-<img src="https://accentsconagua.com/img/images_3/an-introduction-to-mongoose-for-mongodb-and-nodejs.jpg" alt="Mongoose" height="70" />&nbsp;&nbsp;&nbsp;    
-</div>
-
-
-
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
