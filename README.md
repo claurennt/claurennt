@@ -1,7 +1,7 @@
  <div align="center" ><h2 >I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀</h2></div>  
   
 
-- 🎓 I'm currently working as Instructor and Full-Stack Web Developer @ WBS Coding School Berlin
+- 🎓 I'm currently working as Instructor and Full-Stack Web Developer and learning TypeScript 🤩
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
