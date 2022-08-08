@@ -1,4 +1,4 @@
- <div align="center" ><h2 >I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀</h2></div>  
+ <div align="center" ><h2 >I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀 🌈</h2></div>  
   
 
 - 🎓 I'm currently working as Instructor and Full-Stack Web Developer and learning TypeScript 🤩
