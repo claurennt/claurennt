@@ -1,7 +1,7 @@
  <div align="center" ><h2 >I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀 🌈</h2></div>  
   
 
-- 🎓 I'm currently working as Instructor and Full-Stack Web Developer and learning TypeScript 🤩
+- 💻 I'm currently working as a Product Engineer @ Accenture Song
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -26,8 +26,8 @@
 <img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/js.svg" alt="JavaScript" width="70" />
 <img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/react.svg" alt="React" height="70" />
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" height="50" style="background-color:white;" />
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/bootstrap.svg" alt="Bootstrap" height="70" />
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/sass.svg" alt="Sass" height="70" />  
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/bootstrap.svg" alt="Bootstrap" height="70" width="70"/>
+<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/sass.svg" alt="Sass" width="70" height="70" />  
 <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="70" />
 <img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/muisvg.svg" alt="Material-UI" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" height="50" />
