@@ -1,4 +1,4 @@
- <div align="center" ><h2 >I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀 🌈</h2></div>  
+ <div align="center" ><h1>I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀 🌈</h1></div>  
   
 
 - 💻 I'm currently working as a Product Engineer @ Accenture Song
@@ -14,48 +14,46 @@
 
 
 ## My Skill Set  
-
-
-
-
- 
-<div align="center">  
-
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/html5.svg" alt="HTML5" height="70" /> 
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/css3.svg" alt="CSS3" height="70" />
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/js.svg" alt="JavaScript" width="70" />
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/react.svg" alt="React" height="70" />
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" height="50" style="background-color:white;" />
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/bootstrap.svg" alt="Bootstrap" height="70" width="70"/>
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/sass.svg" alt="Sass" width="70" height="70" />  
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="70" />
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/muisvg.svg" alt="Material-UI" height="50" />
+<div>
+<img src="https://www.w3.org/WAI/content-images/wai-media-guide/body.svg" alt="web accessibility" height="70"/>
+<img src="https://icongr.am/devicon/html5-original.svg?size=9" alt="HTML5" height="70" /> 
+<img src="https://icongr.am/devicon/css3-original.svg?size=9" alt="CSS3" height="70" />
+<img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=712cf9" alt="Bootstrap" height="70" width="70" />
+<img src="https://icongr.am/devicon/sass-original.svg?size=9" alt="Sass" width="70" height="70" />  
+<img src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" alt="Material-UI" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" height="50" />
+ <img src="https://www.styled-components.com/atom.png" alt="styled components" height="70" />
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="70" />
+<img src="https://icongr.am/devicon/javascript-original.svg?size=9" alt="JavaScript" width="70" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="JavaScript" width="70" />
 
+<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=712cf9" alt="React" height="70" />
+<img src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp" alt="NextJS" height="40" style="background:white;" />
 
+<br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/node.svg" alt="Node.js" height="70" />
-  <img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/express.png?raw=true" alt="Express.js" height="70" />
+<img src="https://philna.sh/_astro/node.7wLmnISM_GCC91.webp" alt="NodeJS" height="70" />
+<img src="https://expressjs.com/images/express-facebook-share.png" alt="ExpressJS" height="70" />
+<img src="https://www.opc-router.com/wp-content/uploads/2020/04/icon_rest_webservice_600x400px.png" alt="REST API" height="70" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphQL" height="70" /> 
 
-
-
-
-
-  
 <img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/postgresql.svg" alt="PostgreSQL" height="70" /> 
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" />  
-<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/mongodb.png?raw=true" alt="MongoDB" height="70" />  
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/mongoose-.svg" alt="Mongoose" height="70" /> 
+<img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="MongoDB" height="70" />  
+<img src="https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg" alt="Mongoose" height="70" /> 
+<img src="https://media.licdn.com/dms/image/D4D12AQHW9aRSWIOMxQ/article-cover_image-shrink_600_2000/0/1657421703592?e=2147483647&v=beta&t=nKygyfSDFwgPdEoC-nEkogMS0527SBa8z8D_FqUr-us" alt="JSON web token" height="70" /> 
+
+<img src="https://icongr.am/devicon/git-original.svg?size=12" alt="git" height="70" /> 
+<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" height="70" /> 
+<img src="https://icongr.am/devicon/heroku-original.svg?size=12" alt="heroku" height="70" /> 
+<img src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" alt="netlify" height="70" /> 
+<img src="https://miro.medium.com/v2/resize:fit:640/1*B9CIOrxdROHvtdmouQA1_A.png" alt="amazon s3" height="70" /> 
+<img src="https://seeklogo.com/images/C/contentful-logo-C395C545BF-seeklogo.com.png" alt="contentful" height="70" /> 
 
 
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/git.svg" alt="git" height="70" /> 
-<img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/github.svg" alt="github" height="70" /> 
-<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/heroku.png?raw=true" alt="heroku" height="70" /> 
-<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/netlify.png?raw=true" alt="netlify" height="70" /> 
-
-
-<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/scrum.png?raw=true" alt="scrum" height="70" /> 
-<img src="https://github.com/claurennt/claurennt_portfolioProject/blob/main/src/assets/icons/trello.png?raw=true" alt="scrum" height="70" /> 
+<img src="https://cdn-icons-png.flaticon.com/512/5108/5108574.png" alt="scrum" height="70" /> 
+<img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Trello_icon-icons.com_66775.png" alt="trello" height="70" /> 
+<img src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-kkop6eik.png" alt="jira" height="70" /> 
 
 </div>
 
