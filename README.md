@@ -20,15 +20,15 @@
 <div>
   <sup>Web Accessibility</sup>   <sup>HTML5</sup>    &nbsp; &nbsp;<sup>CSS3</sup>    <sup>Bootstrap</sup>     &nbsp;<sup>Sass</sup>    &nbsp; &nbsp;<sup>MaterialUI</sup>  &nbsp; &nbsp;<sup>TailwindCSS</sup>   <sup>Styled Components</sup>  &nbsp; &nbsp;<sup>Figma</sup>
  <br>
- <img src="https://www.w3.org/WAI/content-images/wai-media-guide/body.svg" alt="web accessibility" width="100"/>&nbsp;
-  <img src="https://icongr.am/devicon/html5-original.svg?size=128" alt="HTML5" width="100"/>&nbsp;
-  <img src="https://icongr.am/devicon/css3-original.svg?size=128" alt="CSS3" width="100"/>&nbsp;
-  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=712cf9" alt="Bootstrap" width="100"/>&nbsp;
-  <img src="https://icongr.am/devicon/sass-original.svg?size=128" alt="Sass" width="100"/>&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" alt="Material-UI" width="100"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="100"/>&nbsp;
-  <img src="https://www.styled-components.com/atom.png" alt="styled components" width="100"/>&nbsp;
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="100"/>&nbsp;
+ <img src="https://www.w3.org/WAI/content-images/wai-media-guide/body.svg" alt="web accessibility" width="50"/>&nbsp;
+  <img src="https://icongr.am/devicon/html5-original.svg?size=128" alt="HTML5" width="50"/>&nbsp;
+  <img src="https://icongr.am/devicon/css3-original.svg?size=128" alt="CSS3" width="50"/>&nbsp;
+  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=712cf9" alt="Bootstrap" width="50"/>&nbsp;
+  <img src="https://icongr.am/devicon/sass-original.svg?size=128" alt="Sass" width="50"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" alt="Material-UI" width="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="50"/>&nbsp;
+  <img src="https://www.styled-components.com/atom.png" alt="styled components" width="50"/>&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" width="50"/>&nbsp;
 </div>
 <br/>
 
