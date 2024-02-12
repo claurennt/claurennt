@@ -32,6 +32,7 @@
  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=712cf9" alt="React" height="50" />&nbsp;
  <img src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp" alt="NextJS" height="50"  />&nbsp;
  <br/>
+ <br/>
  <img src="https://philna.sh/_astro/node.7wLmnISM_GCC91.webp" alt="NodeJS" height="50" />&nbsp;
 <img src="https://expressjs.com/images/express-facebook-share.png" alt="ExpressJS" height="50" /> 
 <img src="https://www.opc-router.com/wp-content/uploads/2020/04/icon_rest_webservice_600x400px.png" alt="REST API" height="50" />&nbsp;
@@ -42,6 +43,7 @@
 <img src="https://media.licdn.com/dms/image/D4D12AQHW9aRSWIOMxQ/article-cover_image-shrink_600_2000/0/1657421703592?e=2147483647&v=beta&t=nKygyfSDFwgPdEoC-nEkogMS0527SBa8z8D_FqUr-us" alt="JSON web token" height="50" />&nbsp; 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" height="50" />&nbsp;
 <img src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" height="50" />&nbsp;
+ <br/>
  <br/>
 <img src="https://icongr.am/devicon/git-original.svg?size=12" alt="git" height="50" />&nbsp;
 <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" height="50" />&nbsp;
