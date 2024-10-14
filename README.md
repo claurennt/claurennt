@@ -18,7 +18,7 @@
 
 
 <div>
- <img src="https://www.w3.org/WAI/content-images/wai-media-guide/body.svg" alt="web accessibility" width="50"/>&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Accessibility.svg/1024px-Accessibility.svg.png?20201216174311" alt="web accessibility" width="50"/>&nbsp;
   <img src="https://icongr.am/devicon/html5-original.svg?size=128" alt="HTML5" width="50"/>&nbsp;
   <img src="https://icongr.am/devicon/css3-original.svg?size=128" alt="CSS3" width="50"/>&nbsp;
   <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=712cf9" alt="Bootstrap" width="50"/>&nbsp;
@@ -33,8 +33,8 @@
  <img src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp" alt="NextJS" height="50"  />&nbsp;
  <br/>
  <br/>
- <img src="https://philna.sh/_astro/node.7wLmnISM_GCC91.webp" alt="NodeJS" height="50" />&nbsp;
-<img src="https://expressjs.com/images/express-facebook-share.png" alt="ExpressJS" height="50" /> 
+ <img src="https://nodejs.org/static/logos/nodejsDark.svg" alt="NodeJS" height="50" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" height="50" /> 
 <img src="https://www.opc-router.com/wp-content/uploads/2020/04/icon_rest_webservice_600x400px.png" alt="REST API" height="50" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphQL" height="50" />&nbsp;
 <img src="https://raw.githubusercontent.com/claurennt/claurennt_portfolioProject/a7cfd809333c06f1debeaab46fe9d4b2583e655f/src/assets/icons/postgresql.svg" alt="PostgreSQL" height="50" />&nbsp;
