@@ -2,11 +2,9 @@
  
  <div align="center" ><h1>I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀 🌈</h1></div>  
   
-
-- 💻 I'm currently working as a Product Engineer @ Accenture Song
+- 💻 I'm currently working as Product Engineer @ Accenture Song
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- I am passionate about Web Accessibility 
   
 
 - ⚡ Fun fact: I concentrate to lo-fi hip hop music  
