@@ -28,8 +28,6 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="50" />&nbsp;
  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=712cf9" alt="React" width="50" />&nbsp;
  <img src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp" alt="NextJS" width="50"  />&nbsp;
- <br aria-hidden/>
- <br aria-hidden/>
 <img src="https://w7.pngwing.com/pngs/205/650/png-transparent-node-js-javascript-software-developer-express-js-computer-software-node-js-logo-nodejs-software-development.png" alt="Node JS" width="50" />&nbsp;
 <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express JS" width="50" />&nbsp;
 <img src="https://www.opc-router.com/wp-content/uploads/2020/04/icon_rest_webservice_600x400px.png" alt="REST API" width="50" />&nbsp;
@@ -40,8 +38,6 @@
 <img src="https://media.licdn.com/dms/image/D4D12AQHW9aRSWIOMxQ/article-cover_image-shrink_600_2000/0/1657421703592?e=2147483647&v=beta&t=nKygyfSDFwgPdEoC-nEkogMS0527SBa8z8D_FqUr-us" alt="JSON web token" width="50" />&nbsp; 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" width="50" />&nbsp;
 <img src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" width="50" />&nbsp;
- <br/>
- <br/>
 <img src="https://icongr.am/devicon/git-original.svg?size=12" alt="git" width="50" />&nbsp;
 <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="50" />&nbsp;
 <img src="https://icongr.am/devicon/heroku-original.svg?size=12" alt="heroku" width="50" />&nbsp;
@@ -57,13 +53,13 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/claurennt" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github (opens in a new tab)" />
 </a>
 <a href="https://linkedin.com/in/hello-world-claudia-here/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"  />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin (opens in a new tab)"  />
 </a>  
 <a href="https://www.youtube.com/channel/UCYEE3WaOosXo9Cf0qWrhzOw" target="_blank">
-<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube (opens in a new tab)" />
 </a> 
 </div>  
   
