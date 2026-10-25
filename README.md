@@ -2,7 +2,7 @@
  
  <div align="center" ><h1>I'm Claudia, a linguist turned web developer based in Berlin 👩‍💻 🚀 🌈</h1></div>  
   
-- 💻 I'm currently working as Product Engineer/Accessibility Specialist @ Accenture Song
+- 💻 I'm currently working as Fullstack Engineer/Accessibility Specialist @ quantilope
   
 - I am passionate about Web Accessibility 
   
