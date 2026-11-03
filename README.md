@@ -14,42 +14,42 @@
 ## My Skill Set  
 
 
-<div>
-- Web Accessibility
-- HTML5
-- CSS3
-- Bootstrap
-- Sass
-- Material-UI
-- TailwindCSS
-- Styled Components
-- Figma
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Node.js
-- Express.js
-- REST API
-- GraphQL
-- AI-assisted development
-- PostgreSQL
-- MongoDB
-- Mongoose
-- JSON Web Token
-- Jest
-- React Testing Library
-- Git
-- GitHub
-- Heroku
-- Netlify
-- Amazon S3
-- Adobe Experience Manager
-- Contentful
-- Scrum
-- Trello
-- Jira
-</div>
+<ul>
+  <li>Web Accessibility</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Bootstrap</li>
+  <li>Sass</li>
+  <li>Material-UI</li>
+  <li>TailwindCSS</li>
+  <li>Styled Components</li>
+  <li>Figma</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>React</li>
+  <li>Next.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>REST API</li>
+  <li>GraphQL</li>
+ <li>AI-assisted development</li>
+  <li>PostgreSQL</li>
+  <li>MongoDB</li>
+  <li>Mongoose</li>
+  <li>JSON Web Token</li>
+  <li>Jest</li>
+  <li>React Testing Library</li>
+  <li>Git</li>
+  <li>GitHub</li>
+  <li>Heroku</li>
+  <li>Netlify</li>
+  <li>Amazon S3</li>
+  <li>Adobe Experience Manager</li>
+  <li>Contentful</li>
+  <li>Scrum</li>
+  <li>Trello</li>
+  <li>Jira</li>
+</ul>
 
 ## Connect with me  
 <div align="center">
